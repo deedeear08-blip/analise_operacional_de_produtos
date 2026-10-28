@@ -1,48 +1,43 @@
-RELATÓRIO EXECUTIVO — Plena girassol
+Análise de Vendas, Stock e Clientes — Plena Girassol
 
-Análise de Vendas, Stock e Clientes
+Sobre o Projeto
 
-1.Contexto
-Uma empresa de distribuição alimentar em Angola analisou o desempenho dos seus produtos para entender o equilíbrio entre stock, vendas e procura dos clientes.
+Projeto de análise de dados desenvolvido para avaliar o desempenho dos produtos, identificar desequilíbrios entre stock e procura e apoiar a tomada de decisões de negócio numa empresa fictícia de distribuição alimentar em Angola.
 
-2.Problema
-A empresa apresentava possíveis desequilíbrios entre:
-•produtos em excesso de stock
-•produtos com alta procura
-•variação no comportamento dos clientes
+Problema de Negócio
 
+Compreender a relação entre o stock disponível, o volume de vendas e a procura dos clientes, identificando produtos com baixa rotação e produtos que exigem reposição frequente.
 
+Principais Insights
 
-3.Análise
-•Óleo e Açúcar apresentam excesso de stock e baixa procura
-•Arroz e Feijão apresentam maior procura e vendas elevadas
-•Leite apresenta equilíbrio moderado
+- Óleo e Açúcar: excesso de stock e baixa procura.
+- Arroz e Feijão: maior procura e vendas elevadas.
+- Leite: equilíbrio moderado entre stock e vendas.
 
-4.Insights
+Recomendações
 
-•Existe capital parado em produtos de baixa rotação.
-•Produtos essenciais precisam de reposição constante.
-•Possível impacto de concorrência ou marketing nos produtos menos vendidos. 
+- Ajustar os níveis de stock dos produtos com baixa rotação.
+- Reforçar a reposição dos produtos com maior procura.
+- Avaliar estratégias de preços e marketing para melhorar as vendas.
 
+Ferramentas Utilizadas
 
-5.Recomendações
-•Reduzir stock de produtos com baixa procura.
-•Aumentar reposição de produtos essenciais.
-•Avaliar estratégia de marketing e preços. 
+- Python
+- NumPy
+- Matplotlib
+- Análise Exploratória de Dados (EDA)
+- Data Storytelling
 
-6.Conclusão
-A empresa apresenta desequilíbrio entre stock e procura, sendo necessário ajustar a gestão de inventário e estratégia de vendas.
+O Meu Papel
 
+Pedro João — Analista de Dados Júnior
 
+Realizei a análise do desempenho dos produtos, interpretei os resultados e formulei recomendações para melhorar a gestão do inventário e apoiar decisões comerciais.
 
-* PORTFÓLIO*
+Conclusão
 
-Projeto:Análise de Vendas, Stock e Clientes
+A análise demonstra a importância de alinhar o stock com a procura, reduzir capital imobilizado em produtos de baixa rotação e garantir a disponibilidade dos produtos mais procurados.
 
-Nome:Pedro João
-Meu Papel: Analista de Dados Júnior  
-O que eu fiz: Analisei desempenho dos  produtos para entender o equilíbrio entre stock, vendas e procura dos clientes.
+---
 
-Ferramentas: Python, numpy, Matplotlib, Análise Exploratória, Storytelling
-
-
+Nota: os resultados representam o cenário analisado no projeto e devem ser interpretados de acordo com os dados utilizados.
